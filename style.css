@@ -1,0 +1,31 @@
+body {
+    background-color: #f5f5f5;
+    background-image: url("images/logo_uit.png");
+    background-position: center;
+    background-repeat: no-repeat;
+     font-family: 'Roboto', sans-serif;
+   
+}
+p {
+    color: #333;
+    font-size: 1.2em; 
+    text-align: justify; 
+line-height: 1.8; 
+letter-spacing: 1px; 
+}
+h1 { 
+    font-size: 32px;
+    text-transform: uppercase; 
+color: darkblue; 
+text-align: center; 
+text-shadow: 2px 2px 5px gray; 
+} 
+.container { 
+    width: 80%; 
+} 
+.section { 
+    height: 50vh; 
+} 
+.title { 
+    font-size: 5vw; 
+} 
